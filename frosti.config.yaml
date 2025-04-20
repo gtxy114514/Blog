@@ -46,7 +46,7 @@ site:
           target: _self
         # 子菜单项配置
     - id: project
-      text: Project
+      text: 项目
       href: /project
       svg: "material-symbols:code-blocks-outline"
       target: _self
